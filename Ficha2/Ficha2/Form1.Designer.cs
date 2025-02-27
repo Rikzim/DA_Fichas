@@ -77,7 +77,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(88, 27);
             this.button1.TabIndex = 1;
-            this.button1.Text = "Ativar/Parar";
+            this.button1.Text = "Parar";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -124,6 +124,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(360, 314);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.listBox1);
