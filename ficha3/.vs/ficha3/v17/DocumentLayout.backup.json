@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\source\\repos\\ficha3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|c:\\users\\henri\\source\\repos\\ficha3\\ficha3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|solutionrelative:ficha3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|c:\\users\\henri\\source\\repos\\ficha3\\ficha3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|solutionrelative:ficha3\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|c:\\users\\henri\\source\\repos\\ficha3\\ficha3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|solutionrelative:ficha3\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|c:\\users\\henri\\source\\repos\\ficha3\\ficha3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|solutionrelative:ficha3\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|c:\\users\\henri\\source\\repos\\ficha3\\ficha3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|solutionrelative:ficha3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|c:\\users\\henri\\source\\repos\\ficha3\\ficha3\\alunoespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDF908E-494A-45ED-9796-DECE4D3171B8}|ficha3\\ficha3.csproj|solutionrelative:ficha3\\alunoespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Form1.cs",
+              "RelativeDocumentMoniker": "ficha3\\Form1.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Form1.cs*",
+              "RelativeToolTip": "ficha3\\Form1.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:36:25.2Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ficha3\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Pessoa.cs",
+              "RelativeToolTip": "ficha3\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:09:02.769Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoEspecial.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\AlunoEspecial.cs",
+              "RelativeDocumentMoniker": "ficha3\\AlunoEspecial.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\AlunoEspecial.cs",
+              "RelativeToolTip": "ficha3\\AlunoEspecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:43:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Professor.cs",
+              "RelativeDocumentMoniker": "ficha3\\Professor.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Professor.cs",
+              "RelativeToolTip": "ficha3\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:40:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Aluno.cs",
+              "RelativeDocumentMoniker": "ficha3\\Aluno.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Aluno.cs",
+              "RelativeToolTip": "ficha3\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:28:34.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Form1.cs",
+              "RelativeDocumentMoniker": "ficha3\\Form1.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\ficha3\\ficha3\\Form1.cs [Design]*",
+              "RelativeToolTip": "ficha3\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:06:15.033Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
