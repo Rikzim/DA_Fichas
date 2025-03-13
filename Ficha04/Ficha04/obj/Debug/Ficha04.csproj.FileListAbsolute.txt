@@ -1,0 +1,10 @@
+C:\Users\henri\source\repos\Ficha04\Ficha04\bin\Debug\Ficha04.exe.config
+C:\Users\henri\source\repos\Ficha04\Ficha04\bin\Debug\Ficha04.exe
+C:\Users\henri\source\repos\Ficha04\Ficha04\bin\Debug\Ficha04.pdb
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.Form1.resources
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.Properties.Resources.resources
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.csproj.GenerateResource.cache
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.exe
+C:\Users\henri\source\repos\Ficha04\Ficha04\obj\Debug\Ficha04.pdb
